@@ -3,38 +3,38 @@
 <head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <base href="https://portal.ubk.ac.id/pmb/MASTERSLOT/">
+  <base href="https://jim.unindra.ac.id/pages/">
   <meta charset="utf-8" />
-  <title>MASTERSLOT >> Link Slot Terpercaya Modal 5K Bisa Jadi Milyader</title>
+  <title>BOLAVITASLOT - Link Slot Gacor 2025 Modal 5K Bisa Jackpot Jutaan Rupiah</title>
   <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
   <link rel="icon" type="image/x-icon" href="https://nerlamina.sirv.com/image-bvs/favicon-bvs.png" />
-  <link rel="amphtml" href="https://link.akunspesial.vip/mrbot/git/tun7/?mrbot=MASTERSLOT" />
-  <link rel="canonical" href="https://portal.ubk.ac.id/pmb/MASTERSLOT/" />
-  <meta name="google-site-verification" content="gb57ep2Z6njglNS4OG1wB_9rLDeq1D8qXOkMBuFULV0" />
-  <meta name="keywords" content="MASTERSLOT, SITUS MASTERSLOT, MASTERSLOT LOGIN, AGEN MASTERSLOT, SLOT ONLINE, DAFTAR MASTERSLOT, SLOT" />
-  <meta property="og:site_name" content="MASTERSLOT" />
-  <meta property="og:title" content="MASTERSLOT >> Link Slot Terpercaya Modal 5K Bisa Jadi Milyader" />
-  <meta property="og:url" content="https://portal.ubk.ac.id/pmb/MASTERSLOT/" />
+  <link rel="amphtml" href="https://akses.bolavita.link/mrbot/home/jim/" />
+  <link rel="canonical" href="https://jim.unindra.ac.id/pages/" />
+  <meta name="google-site-verification" content="bjxrX4vZWYEVNYsgDUJI55vTLiaOt8Uzn2551PEdEJE" />
+  <meta name="keywords" content="BOLAVITASLOT, SITUS BOLAVITASLOT, BOLAVITASLOT LOGIN, AGEN BOLAVITASLOT, SLOT ONLINE, DAFTAR BOLAVITASLOT, SLOT" />
+  <meta property="og:site_name" content="BOLAVITASLOT" />
+  <meta property="og:title" content="BOLAVITASLOT - Link Slot Gacor 2025 Modal 5K Bisa Jackpot Jutaan Rupiah" />
+  <meta property="og:url" content="https://jim.unindra.ac.id/pages/" />
   <meta property="og:type" content="product" />
-  <meta property="og:description" content="MASTERSLOT hadir sebagai pilihan utama buat kamu yang cari link slot terpercaya dengan modal terjangkau cuma 5K aja bisa jadi milyader! Gak perlu ribet, di MASTERSLOT semua serba mudah dan aman, bikin kamu betah main seharian. Dijamin sensasi bermain slotnya bikin nagih, apalagi peluang jackpotnya gede banget." />
-  <meta property="og:image" content="https://nerlamina.sirv.com/image-bvs/slot-kakek-zeus.jpg" />
+  <meta property="og:description" content="BOLAVITASLOT bikin hari-hari lo makin seru dengan sensasi slot gacor yang nggak ada duanya! Modal cuma 5K, tapi kesempatan jackpot jutaan rupiah siap nongkrong di depan mata." />
+  <meta property="og:image" content="https://nerlamina.sirv.com/image-bvs/bvs-slot-gacor-2025.jpg" />
   <meta property="og:image:width" content="840" />
   <meta property="og:image:height" content="480" />
-  <meta property="product:price:amount" content="10.000" />
+  <meta property="product:price:amount" content="5.000" />
   <meta property="product:price:currency" content="IDR" />
   <meta property="product:availability" content="instock" />
-  <meta itemprop="name" content="MASTERSLOT >> Link Slot Terpercaya Modal 5K Bisa Jadi Milyader" />
-  <meta itemprop="url" content="https://portal.ubk.ac.id/pmb/MASTERSLOT/" />
-  <meta itemprop="description" content="MASTERSLOT hadir sebagai pilihan utama buat kamu yang cari link slot terpercaya dengan modal terjangkau cuma 5K aja bisa jadi milyader! Gak perlu ribet, di MASTERSLOT semua serba mudah dan aman, bikin kamu betah main seharian. Dijamin sensasi bermain slotnya bikin nagih, apalagi peluang jackpotnya gede banget." />
-  <meta itemprop="thumbnailUrl" content="https://nerlamina.sirv.com/image-bvs/slot-kakek-zeus.jpg" />
-  <link rel="image_src" href="https://nerlamina.sirv.com/image-bvs/slot-kakek-zeus.jpg" />
-  <meta itemprop="image" content="https://nerlamina.sirv.com/image-bvs/slot-kakek-zeus.jpg" />
-  <meta name="twitter:title" content="MASTERSLOT >> Link Slot Terpercaya Modal 5K Bisa Jadi Milyader" />
-  <meta name="twitter:image" content="https://nerlamina.sirv.com/image-bvs/slot-kakek-zeus.jpg" />
-  <meta name="twitter:url" content="https://portal.ubk.ac.id/pmb/MASTERSLOT/" />
+  <meta itemprop="name" content="BOLAVITASLOT - Link Slot Gacor 2025 Modal 5K Bisa Jackpot Jutaan Rupiah" />
+  <meta itemprop="url" content="https://jim.unindra.ac.id/pages/" />
+  <meta itemprop="description" content="BOLAVITASLOT bikin hari-hari lo makin seru dengan sensasi slot gacor yang nggak ada duanya! Modal cuma 5K, tapi kesempatan jackpot jutaan rupiah siap nongkrong di depan mata." />
+  <meta itemprop="thumbnailUrl" content="https://nerlamina.sirv.com/image-bvs/bvs-slot-gacor-2025.jpg" />
+  <link rel="image_src" href="https://nerlamina.sirv.com/image-bvs/bvs-slot-gacor-2025.jpg" />
+  <meta itemprop="image" content="https://nerlamina.sirv.com/image-bvs/bvs-slot-gacor-2025.jpg" />
+  <meta name="twitter:title" content="BOLAVITASLOT - Link Slot Gacor 2025 Modal 5K Bisa Jackpot Jutaan Rupiah" />
+  <meta name="twitter:image" content="https://nerlamina.sirv.com/image-bvs/bvs-slot-gacor-2025.jpg" />
+  <meta name="twitter:url" content="https://jim.unindra.ac.id/pages/" />
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:description" content="MASTERSLOT hadir sebagai pilihan utama buat kamu yang cari link slot terpercaya dengan modal terjangkau cuma 5K aja bisa jadi milyader! Gak perlu ribet, di MASTERSLOT semua serba mudah dan aman, bikin kamu betah main seharian. Dijamin sensasi bermain slotnya bikin nagih, apalagi peluang jackpotnya gede banget." />
-  <meta name="description" content="MASTERSLOT hadir sebagai pilihan utama buat kamu yang cari link slot terpercaya dengan modal terjangkau cuma 5K aja bisa jadi milyader! Gak perlu ribet, di MASTERSLOT semua serba mudah dan aman, bikin kamu betah main seharian. Dijamin sensasi bermain slotnya bikin nagih, apalagi peluang jackpotnya gede banget." />
+  <meta name="twitter:description" content="BOLAVITASLOT bikin hari-hari lo makin seru dengan sensasi slot gacor yang nggak ada duanya! Modal cuma 5K, tapi kesempatan jackpot jutaan rupiah siap nongkrong di depan mata." />
+  <meta name="description" content="BOLAVITASLOT bikin hari-hari lo makin seru dengan sensasi slot gacor yang nggak ada duanya! Modal cuma 5K, tapi kesempatan jackpot jutaan rupiah siap nongkrong di depan mata." />
   <link rel="preconnect" href="https://images.squarespace-cdn.com">
   <script type="text/javascript" src="//use.typekit.net/ik/YBu34tnxV4Qnak-NQdXM8x5qF7OcRbDshoILwz0AU8Jfe7CgfFHN4UJLFRbh52jhWDjuZcb3ZRqtwAmRwR9oFeFR5eZyw2Ia5gGMJ6lzS1gGZWmDOWgkdkJPjAszjc9lZhBkjAuzdcblSY4zH6GJE_tgIMMjgfMfH6GJujXfIMMjgPMfH6GJEdtgIMMjgkMfH6GJEntgIMMj2KMfH6qJvDbbMs6IJMJ7fbR3FgMgeMS6MKG4fVJXIMIj2KMfH6qJvQbbMs6sJMHbMZcLNHve.js"></script>
   <script type="text/javascript">
@@ -229,8 +229,8 @@
         "machineTimeZoneOffset": 25200000,
         "timeZoneOffset": 25200000,
         "timeZoneAbbr": "WIB",
-        "siteTitle": "MASTERSLOT",
-        "fullSiteTitle": "MASTERSLOT >> Link Slot Terpercaya Modal 5K Bisa Jadi Milyader",
+        "siteTitle": "BOLAVITASLOT",
+        "fullSiteTitle": "BOLAVITASLOT - Link Slot Gacor 2025 Modal 5K Bisa Jackpot Jutaan Rupiah",
         "siteDescription": {
           "html": "",
           "raw": false
@@ -246,9 +246,9 @@
           "2": true
         },
         "logoImageUrl": "https://nerlamina.sirv.com/image-bvs/logo-slot-gacor-bolavitaslot.png",
-        "authenticUrl": "https://portal.ubk.ac.id/pmb/MASTERSLOT/",
-        "internalUrl": "https://portal.ubk.ac.id/pmb/MASTERSLOT/",
-        "baseUrl": "https://portal.ubk.ac.id/pmb/MASTERSLOT/",
+        "authenticUrl": "https://jim.unindra.ac.id/pages/",
+        "internalUrl": "https://jim.unindra.ac.id/pages/",
+        "baseUrl": "https://jim.unindra.ac.id/pages/",
         "sslSetting": 3,
         "isHstsEnabled": true,
         "createdOn": 1711083416383,
@@ -386,14 +386,14 @@
       "collection": {
         "title": "Store",
         "id": "65fd0fc2aa1d0858f5af2fe4",
-        "fullUrl": "https://portal.ubk.ac.id/pmb/MASTERSLOT/",
+        "fullUrl": "https://jim.unindra.ac.id/pages/",
         "type": 13,
         "permissionType": 1
       },
       "item": {
-        "title": "MASTERSLOT >> Link Slot Terpercaya Modal 5K Bisa Jadi Milyader",
+        "title": "BOLAVITASLOT - Link Slot Gacor 2025 Modal 5K Bisa Jackpot Jutaan Rupiah",
         "id": "65fd0fc7db01f63c712f258e",
-        "fullUrl": "https://portal.ubk.ac.id/pmb/MASTERSLOT/",
+        "fullUrl": "https://jim.unindra.ac.id/pages/",
         "publicCommentCount": 0,
         "commentState": 1,
         "recordType": 11
@@ -622,8 +622,8 @@
   </script>
   <script type="application/ld+json">
     {
-      "url": "https://portal.ubk.ac.id/pmb/MASTERSLOT/",
-      "name": "MASTERSLOT",
+      "url": "https://jim.unindra.ac.id/pages/",
+      "name": "BOLAVITASLOT",
       "description": "",
       "image": "https://nerlamina.sirv.com/image-bvs/logo-slot-gacor-bolavitaslot.png",
       "@context": "http://schema.org",
@@ -632,14 +632,14 @@
   </script>
   <script type="application/ld+json">
     {
-      "name": "MASTERSLOT >> Link Slot Terpercaya Modal 5K Bisa Jadi Milyader",
-      "image": "https://nerlamina.sirv.com/image-bvs/slot-kakek-zeus.jpg",
-      "description": "MASTERSLOT hadir sebagai pilihan utama buat kamu yang cari link slot terpercaya dengan modal terjangkau cuma 5K aja bisa jadi milyader! Gak perlu ribet, di MASTERSLOT semua serba mudah dan aman, bikin kamu betah main seharian. Dijamin sensasi bermain slotnya bikin nagih, apalagi peluang jackpotnya gede banget.",
-      "brand": "MASTERSLOT",
+      "name": "BOLAVITASLOT - Link Slot Gacor 2025 Modal 5K Bisa Jackpot Jutaan Rupiah",
+      "image": "https://nerlamina.sirv.com/image-bvs/bvs-slot-gacor-2025.jpg",
+      "description": "BOLAVITASLOT bikin hari-hari lo makin seru dengan sensasi slot gacor yang nggak ada duanya! Modal cuma 5K, tapi kesempatan jackpot jutaan rupiah siap nongkrong di depan mata.",
+      "brand": "BOLAVITASLOT",
       "offers": {
         "price": 10.000,
         "priceCurrency": "IDR",
-        "url": "https://portal.ubk.ac.id/pmb/MASTERSLOT/",
+        "url": "https://jim.unindra.ac.id/pages/",
         "availability": "InStock",
         "sku": "SQ1936194",
         "@context": "http://schema.org",
@@ -771,7 +771,7 @@
     {
       "@context": "https://schema.org",
       "@type": "SoftwareApplication",
-      "name": "MASTERSLOT",
+      "name": "BOLAVITASLOT",
       "operatingSystem": "ANDROID",
       "applicationCategory": "GameApplication",
       "aggregateRating": {
@@ -1162,7 +1162,7 @@
                 <div class="header-nav-wrapper">
                   <nav class="header-nav-list">
                     <div class="header-nav-item header-nav-item--collection header-nav-item--active">
-                      <a>MASTERSLOT</a>
+                      <a>BOLAVITASLOT</a>
                     </div>
                     <div class="header-nav-item header-nav-item--collection">
                       <a>Live Casino</a>
@@ -1179,8 +1179,8 @@
                       
                     " data-animation-role="header-element">
                 <div class="header-title-logo">
-                  <a href="https://portal.ubk.ac.id/pmb/MASTERSLOT/" data-animation-role="header-element">
-                    <img elementtiming="nbf-header-logo-desktop" src="https://nerlamina.sirv.com/image-bvs/logo-slot-gacor-bolavitaslot.png" alt="MASTERSLOT" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+                  <a href="https://jim.unindra.ac.id/pages/" data-animation-role="header-element">
+                    <img elementtiming="nbf-header-logo-desktop" src="https://nerlamina.sirv.com/image-bvs/logo-slot-gacor-bolavitaslot.png" alt="BOLAVITASLOT" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
                   </a>
                 </div>
               </div>
@@ -1189,7 +1189,7 @@
             <div class="header-actions header-actions--right">
               <div class="showOnMobile">
                 <div class="header-actions-action header-actions-action--cart">
-                  <a href="https://portal.ubk.ac.id/pmb/MASTERSLOT/" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+                  <a href="https://jim.unindra.ac.id/pages/" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
                     <span class="Cart-inner">
                       <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
                         <path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
@@ -1208,7 +1208,7 @@
               </div>
               <div class="showOnDesktop">
                 <div class="header-actions-action header-actions-action--cart">
-                  <a href="https://portal.ubk.ac.id/pmb/MASTERSLOT/" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+                  <a href="https://jim.unindra.ac.id/pages/" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
                     <span class="Cart-inner">
                       <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
                         <path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
@@ -1273,13 +1273,13 @@
                 <div class="header-nav-wrapper">
                   <nav class="header-nav-list">
                     <div class="header-nav-item header-nav-item--collection header-nav-item--active">
-                      <a href="https://portal.ubk.ac.id/pmb/MASTERSLOT/" data-animation-role="header-element" aria-current="page"> Store </a>
+                      <a href="https://jim.unindra.ac.id/pages/" data-animation-role="header-element" aria-current="page"> Store </a>
                     </div>
                     <div class="header-nav-item header-nav-item--collection">
-                      <a href="https://portal.ubk.ac.id/pmb/MASTERSLOT/" data-animation-role="header-element"> All Prints </a>
+                      <a href="https://jim.unindra.ac.id/pages/" data-animation-role="header-element"> All Prints </a>
                     </div>
                     <div class="header-nav-item header-nav-item--collection">
-                      <a href="https://portal.ubk.ac.id/pmb/MASTERSLOT/" data-animation-role="header-element"> About </a>
+                      <a href="https://jim.unindra.ac.id/pages/" data-animation-role="header-element"> About </a>
                     </div>
                   </nav>
                 </div>
@@ -1290,8 +1290,8 @@
                       
                     " data-animation-role="header-element">
                 <div class="header-title-logo">
-                  <a href="https://portal.ubk.ac.id/pmb/MASTERSLOT/" data-animation-role="header-element">
-                    <img elementtiming="nbf-header-logo-desktop" src="https://nerlamina.sirv.com/image-bvs/logo-slot-gacor-bolavitaslot.png" alt="MASTERSLOT" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+                  <a href="https://jim.unindra.ac.id/pages/" data-animation-role="header-element">
+                    <img elementtiming="nbf-header-logo-desktop" src="https://nerlamina.sirv.com/image-bvs/logo-slot-gacor-bolavitaslot.png" alt="BOLAVITASLOT" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
                   </a>
                 </div>
               </div>
@@ -1300,7 +1300,7 @@
             <div class="header-actions header-actions--right">
               <div class="showOnMobile">
                 <div class="header-actions-action header-actions-action--cart">
-                  <a href="https://portal.ubk.ac.id/pmb/MASTERSLOT/" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+                  <a href="https://jim.unindra.ac.id/pages/" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
                     <span class="Cart-inner">
                       <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
                         <path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
@@ -1319,7 +1319,7 @@
               </div>
               <div class="showOnDesktop">
                 <div class="header-actions-action header-actions-action--cart">
-                  <a href="https://portal.ubk.ac.id/pmb/MASTERSLOT/" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+                  <a href="https://jim.unindra.ac.id/pages/" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
                     <span class="Cart-inner">
                       <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
                         <path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
@@ -1591,17 +1591,17 @@
                 <!-- Menu Navigation -->
                 <div class="header-menu-nav-wrapper">
                   <div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
-                    <a href="https://portal.ubk.ac.id/pmb/MASTERSLOT/" aria-current="page">
+                    <a href="https://jim.unindra.ac.id/pages/" aria-current="page">
                       <div class="header-menu-nav-item-content"> Store </div>
                     </a>
                   </div>
                   <div class="container header-menu-nav-item header-menu-nav-item--collection">
-                    <a href="https://portal.ubk.ac.id/pmb/MASTERSLOT/">
+                    <a href="https://jim.unindra.ac.id/pages/">
                       <div class="header-menu-nav-item-content">All Prints </div>
                     </a>
                   </div>
                   <div class="container header-menu-nav-item header-menu-nav-item--collection">
-                    <a href="https://portal.ubk.ac.id/pmb/MASTERSLOT/">
+                    <a href="https://jim.unindra.ac.id/pages/">
                       <div class="header-menu-nav-item-content"> About </div>
                     </a>
                   </div>
@@ -1663,30 +1663,30 @@
     '>
             <div class="content">
               <div class="n-columns-2">
-                <a href="https://link.akunspesial.vip/mrbot/git/tun7/?mrbot=MASTERSLOT" rel="nofollow noreferrer" class="login">LOGIN</a>
-                <a href="https://link.akunspesial.vip/mrbot/git/tun7/?mrbot=MASTERSLOT" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                <a href="https://akses.bolavita.link/mrbot/home/jim/" rel="nofollow noreferrer" class="login">LOGIN</a>
+                <a href="https://akses.bolavita.link/mrbot/home/jim/" rel="nofollow noreferrer" class="register">DAFTAR</a>
               </div>
               <section id="pdp" class="
     products
     collection-content-wrapper
     product-layout-side-by-side
   ">
-                <article class="ProductItem hentry tag-live-casino tag-situs-live-casino tag-live-casino-online author-situs-live-casino-MASTERSLOT post-type-store-item" data-item-id="65fd0fc7db01f63c712f258e">
+                <article class="ProductItem hentry tag-live-casino tag-situs-live-casino tag-live-casino-online author-situs-live-casino-BOLAVITASLOT post-type-store-item" data-item-id="65fd0fc7db01f63c712f258e">
                   <nav class="ProductItem-nav">
                     <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
-                      <a href="https://portal.ubk.ac.id/pmb/MASTERSLOT/" class="ProductItem-nav-breadcrumb-link">Store</a>
+                      <a href="https://jim.unindra.ac.id/pages/" class="ProductItem-nav-breadcrumb-link">Store</a>
                       <span class="ProductItem-nav-breadcrumb-separator"></span>
-                      <a href="https://portal.ubk.ac.id/pmb/MASTERSLOT/" class="ProductItem-nav-breadcrumb-link">MASTERSLOT >> Link Slot Terpercaya Modal 5K Bisa Jadi Milyader</a>
+                      <a href="https://jim.unindra.ac.id/pages/" class="ProductItem-nav-breadcrumb-link">BOLAVITASLOT - Link Slot Gacor 2025 Modal 5K Bisa Jackpot Jutaan Rupiah</a>
                     </div>
                   </nav>
                   <section class="ProductItem-summary" data-controller="ProductGallery">
                     <section aria-label="Gallery" class="ProductItem-gallery" data-product-gallery="container">
                       <div class="ProductItem-gallery-slides" data-animation-role="image" data-product-gallery="slides">
                         <div class="ProductItem-gallery-slides-item" data-slide-index="1" data-image-id=65fd0fd62438744c9a05c86b data-controller="ImageZoom" data-slide-url="zeus" data-product-gallery="slides-item" data-test="pdp-gallery-slide">
-                          <img aria-describedby="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b" class="ProductItem-gallery-slides-item-1" data-load="false" data-src="https://nerlamina.sirv.com/image-bvs/slot-kakek-zeus.jpg" data-image="https://nerlamina.sirv.com/image-bvs/slot-kakek-zeus.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="MASTERSLOT" elementtiming="nbf-products-gallery" />
+                          <img aria-describedby="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b" class="ProductItem-gallery-slides-item-1" data-load="false" data-src="https://nerlamina.sirv.com/image-bvs/bvs-slot-gacor-2025.jpg" data-image="https://nerlamina.sirv.com/image-bvs/bvs-slot-gacor-2025.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="BOLAVITASLOT" elementtiming="nbf-products-gallery" />
                           <span id="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b" style="display: none;"> Image 1 of </span>
                           <div class="product-image-zoom-duplicate" aria-hidden="true">
-                            <img data-load="false" data-src="https://nerlamina.sirv.com/image-bvs/slot-kakek-zeus.jpg" data-image="https://nerlamina.sirv.com/image-bvs/slot-kakek-zeus.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="MASTERSLOT" elementtiming="nbf-products-gallery-zoom" />
+                            <img data-load="false" data-src="https://nerlamina.sirv.com/image-bvs/bvs-slot-gacor-2025.jpg" data-image="https://nerlamina.sirv.com/image-bvs/bvs-slot-gacor-2025.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="BOLAVITASLOT" elementtiming="nbf-products-gallery-zoom" />
                           </div>
                         </div>
                         <div class="gallery-lightbox-outer-wrapper" data-use-image-loader="true" data-controller="Lightbox">
@@ -1708,7 +1708,7 @@
                                   <div class="gallery-lightbox-item-wrapper">
                                     <div class="gallery-lightbox-item-src">
                                       <div class="gallery-lightbox-item-img content-fit">
-                                        <img data-src="https://nerlamina.sirv.com/image-bvs/slot-kakek-zeus.jpg" data-image="https://nerlamina.sirv.com/image-bvs/slot-kakek-zeus.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="MASTERSLOT" data-load="false" elementtiming="nbf-product-lightbox" />
+                                        <img data-src="https://nerlamina.sirv.com/image-bvs/bvs-slot-gacor-2025.jpg" data-image="https://nerlamina.sirv.com/image-bvs/bvs-slot-gacor-2025.jpg" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="BOLAVITASLOT" data-load="false" elementtiming="nbf-product-lightbox" />
                                       </div>
                                     </div>
                                   </div>
@@ -1743,7 +1743,7 @@
     product-details
     ProductItem-details
   " data-test="pdp-details">
-                      <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title"> MASTERSLOT >> Link Slot Terpercaya Modal 5K Bisa Jadi Milyader </h1>
+                      <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title"> BOLAVITASLOT - Link Slot Gacor 2025 Modal 5K Bisa Jackpot Jutaan Rupiah </h1>
                       <div data-controller="ProductItemVariants,ProductCartButton" class="ProductItem-details-checkout">
                         <div class="ProductItem-product-price" data-animation-role="content">
                           <div class="product-price"> IDR 5.000 </div>
@@ -1766,7 +1766,7 @@
                         </div>
                         <div class="ProductItem-details-excerpt" data-content-field="excerpt">
 
-                          <p>MASTERSLOT hadir sebagai pilihan utama buat kamu yang cari link slot terpercaya dengan modal terjangkau cuma 5K aja bisa jadi milyader! Gak perlu ribet, di MASTERSLOT semua serba mudah dan aman, bikin kamu betah main seharian. Dijamin sensasi bermain slotnya bikin nagih, apalagi peluang jackpotnya gede banget.</p>
+                          <p>BOLAVITASLOT bikin hari-hari lo makin seru dengan sensasi slot gacor yang nggak ada duanya! Modal cuma 5K, tapi kesempatan jackpot jutaan rupiah siap nongkrong di depan mata. Gak perlu ribet, langsung aja cuss ke BOLAVITASLOT dan rasakan sensasi menang yang bikin deg-degan! Yuk, gabung sekarang dan buktiin sendiri kenapa BOLAVITASLOT jadi pilihan utama para pecinta slot online. Gak bakal nyesel, pokoknya.</p>
                         </div>
                         <div class="product-quantity-input" data-item-id="65fd0fc7db01f63c712f258e" data-animation-role="content">
                           <div class="quantity-label">Quantity:</div>
@@ -1811,7 +1811,7 @@
       //# sourceURL=headerPositioning.js
     </script>
     <footer class="sections" id="footer-sections" data-footer-sections>
-      <small class="copyright__content"> Saatnya Berburu &copy; MASTERSLOT 2025 📩 Powered by <a href="https://portal.ubk.ac.id/pmb/MASTERSLOT/" title="https://link.akunspesial.vip/mrbot/git/tun7/?mrbot=MASTERSLOT">MRBOT</a></small>
+      <small class="copyright__content"> Saatnya Berburu &copy; BOLAVITASLOT 2025 📩 Powered by <a href="https://jim.unindra.ac.id/pages/" title="https://akses.bolavita.link/mrbot/home/jim/">MRBOT</a></small>
     </footer>
   </div>
   <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.6c05f1e49429ba1d8919cf9e9cce7b3f.js" type="text/javascript"></script>
